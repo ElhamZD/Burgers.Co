@@ -1,4 +1,4 @@
-# burgers.Co
+# Burgers.Co
 
 The demo:
 https://elhamzd.github.io/burgers.Co/.
