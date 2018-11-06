@@ -52,6 +52,7 @@ body{
 }
 .background{
 	background: url("../img/background.png");
+	background-size:cover;
 	padding-bottom:100px;
 }
 .left{
