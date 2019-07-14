@@ -34,18 +34,23 @@ body{
 .rightMenu ul{
 	list-style-type: none;
 	display: inline-block;
+    margin:5px 0;
 }
-.rightMenu ul a{
-	
+.rightMenu ul li{
+	float:left
 }
-.rightMenu a{
+.rightMenu ul li a{
 	text-decoration:none;
 	color:#0e1d2b;
 	font-size:16px;
 	margin-right:22px;
+    display: inline-block;
+    border:2px solid transparent;
 }
 .rightMenu a:hover{
 	font-weight:bold;
+    border-bottom:2px solid #ffa326;
+   /* text-decoration: underline #ffa326;*/
 }
 .clear{
 	clear:both;
